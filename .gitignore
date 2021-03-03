@@ -1,3 +1,6 @@
+# java, scala, maven generated content
+target/
+
 # Compiled class file
 *.class
 
