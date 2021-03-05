@@ -9,5 +9,8 @@ header:
     - '**/*.md'
     - 'LICENSE'
     - 'NOTICE'
+    - '**/*.sbt'
+    - '**/*.json'
+    - '.gitignore'
 
   comment: on-failure
